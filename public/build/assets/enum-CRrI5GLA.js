@@ -1,0 +1,1 @@
+var p=(e=>(e.PENDING="pending",e.PAID="paid",e.PROCESS="process",e.SHIPPING="shipping",e.FAILED="failed",e.COMPLETED="completed",e))(p||{}),I=(e=>(e.DRAFT="draft",e.ACTIVE="active",e.ARCHIVED="archived",e))(I||{});export{p as E,I as a};
